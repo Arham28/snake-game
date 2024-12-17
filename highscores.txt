@@ -1,0 +1,7 @@
+arham 220
+dipti 40
+tushar 20
+i 10
+test 0
+gg 0
+i 0
